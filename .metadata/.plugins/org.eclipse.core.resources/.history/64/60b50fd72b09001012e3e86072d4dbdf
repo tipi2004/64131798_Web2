@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+
+
+
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+<link rel="stylesheet" href="/css/style.css">
+</head>
+<body>
+    <div class="container">
+        <div class="banner">
+            <img src="/img/upm-ntu-241107161700.png" alt="Banner">
+        </div>
+        <div class="header">
+            <div><a href="#">Home</a></div>
+            <div><a href="#">About</a></div>
+            <div><a href="#">List</a></div>
+            <div><a href="#">Add new</a></div>
+        </div>
+        <div class="main">
+            <div class="content"></div>
+            <div class="sidebar">
+                <img src="/img/dog.jpg" alt="Ảnh minh họa">
+            </div>
+        </div>
+        <div class="footer">Huỳnh Thanh Phong</div>
+    </div>
+</body>
+</html>

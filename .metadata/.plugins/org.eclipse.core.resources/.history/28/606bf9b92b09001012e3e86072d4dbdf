@@ -1,0 +1,26 @@
+/* Định dạng bảng */
+table {
+    width: 80%; /* Độ rộng bảng */
+    margin: 20px auto; /* Căn giữa bảng */
+    border-collapse: collapse; /* Gộp các đường viền */
+    background-color: #fff; /* Màu nền bảng */
+}
+
+thead {
+    background-color: #333; /* Màu nền tiêu đề */
+    color: white; /* Màu chữ tiêu đề */
+}
+
+th, td {
+    border: 1px solid #ddd; /* Đường viền ô */
+    padding: 8px; /* Khoảng cách bên trong */
+    text-align: center; /* Căn giữa nội dung */
+}
+
+tbody tr:nth-child(even) {
+    background-color: #f9f9f9; /* Màu nền hàng chẵn */
+}
+
+tbody tr:hover {
+    background-color: #f1f1f1; /* Màu nền khi hover */
+}
